@@ -32,7 +32,7 @@ import requests
 # --- CONFIGURACIÓN ---
 TARGET_TITLE = "Equalizer APO 1.3.a2 Configuration Editor"
 NEW_TITLE = "russo x nash los reyes del trap ⚔️"
-BG_IMAGE_PATH = "https://i.pinimg.com/webp/736x/1e/56/1e/1e561ec04a43f3bb803d5065612b2388.webp"
+BG_IMAGE_PATH = "https://github.com/nash-os/apo/blob/main/background.png"
 
 OPACITY_FONDO = 0.1
 OPACITY_APO = 130
